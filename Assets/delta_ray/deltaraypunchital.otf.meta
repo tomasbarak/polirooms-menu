@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd68df1b900943746b30d189e31f2e33
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Punch Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ebebaac37d406db448d65909126ecbb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

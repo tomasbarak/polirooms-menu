@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 58b750b9b8bd0064e9c751b587379d03
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92d7ea4946d6c7647a4d46ceb9046229, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

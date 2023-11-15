@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: abe80953f2bdb33468dfdbbb4973894f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Punch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83f12a48752a1f849944ca84420f93fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 327b44cd0f641304aa5e000b8036976a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Gradient Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b07163d16b4780c49a4d95376253535f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

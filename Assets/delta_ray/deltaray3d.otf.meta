@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 68370d3c04235934194ce30d388043f8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20d5322a98e568e4c97a9ee84b7e8e7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

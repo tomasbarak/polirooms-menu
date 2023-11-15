@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e96f5ec8e4cd4244bbe6539c7d0385b7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Condensed Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4053bace09b958e4693609f0a608878a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

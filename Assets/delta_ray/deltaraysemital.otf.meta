@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 260f2ec484edf5741a1b2826ebe24f8e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delta Ray Semi-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1501807d2316dd74c8ef5ead12bfcdad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
